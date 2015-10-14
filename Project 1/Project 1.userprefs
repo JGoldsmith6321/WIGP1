@@ -1,8 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CubeAppear.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MuteButton.cs">
     <Files>
-      <File FileName="Assets\CubeAppear.cs" Line="1" Column="3" />
+      <File FileName="Assets\MuteButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\CubeAppear.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clicked.cs" Line="1" Column="1" />
+      <File FileName="Assets\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Spin.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

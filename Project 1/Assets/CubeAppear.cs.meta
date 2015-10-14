@@ -1,12 +1,14 @@
 fileFormatVersion: 2
 guid: 03e593cfd2d2dbe499c72ef461f7e884
-timeCreated: 1442994447
+timeCreated: 1444348266
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - bronze: {fileID: 179618, guid: f4e92d8356f7c3243afc27e8d90e1350, type: 2}
   - silver: {fileID: 118722, guid: 7887fc14c308f71469adbfba1223625c, type: 2}
+  - gold: {fileID: 131526, guid: e5a54f51395d8284a961a3d546ef8941, type: 2}
+  - kryptonite: {fileID: 128592, guid: b3787857694548640b557726d30912c3, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
